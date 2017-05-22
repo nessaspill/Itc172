@@ -1,0 +1,45 @@
+﻿body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: black;
+    line-height: 2em;
+}
+
+.wrap {
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 5%;
+    background-color: burlywood;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+#registration {
+    margin-left: 20%;
+}
+
+td{
+    font-weight: bold;
+}
+.donation {
+    font-weight: bold;
+}
+.hLabel {
+    text-align: center;
+    width: 20%;
+}
+
+#GridView1{
+    border: thick 2px blueviolet;
+    margin-left: 30%;
+}
+
+#LoginButton, #SubmitButton {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 200px;
+}
