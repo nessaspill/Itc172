@@ -1,0 +1,82 @@
+﻿
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #333;
+    line-height: 2em;
+}
+
+.wrap {
+    margin: 0 auto;
+    padding: 5%;
+    background-color: #acd4ba;
+    text-align: center;
+    min-height: 580px;
+    box-shadow: 5px 0px 5px 0px rgba(0,0,0,1);
+    
+}
+
+table {
+    margin: 0 auto;
+}
+
+#registration, #grantapp {
+    margin-left: 20%;
+}
+
+td{
+    font-weight: bold;
+}
+.donation {
+    font-weight: bold;
+}
+.hLabel {
+    text-align: center;
+    width: 20%;
+}
+
+#GridView1 {
+    border: thick 2px blueviolet;
+    margin-left: 30%;
+}
+
+#Gridview2 {
+    border: thick 2px blueviolet;
+}
+#LoginButton, #SubmitButton {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    height: 50px;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+
+.active {
+    background-color: #4CAF50;
+}
+    
+
